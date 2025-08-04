@@ -1,4 +1,4 @@
-# 🤖 Multi-PDFs Chat Agent using Gemini AI
+# 🤖 Chat Agent using Gemini AI
 
 A Streamlit-powered AI chatbot that lets users upload and interact with **multiple PDF files** using **Google's Gemini AI**. It enables context-aware Q&A over documents using semantic search and conversational reasoning.
 
